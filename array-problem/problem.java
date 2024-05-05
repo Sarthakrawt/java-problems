@@ -1,4 +1,4 @@
-public class problem {
+public class lenofarrelm {
     // prints elements which are of even length from an array
     public static void main(String args[]) {
         int[] arr = { 23, 344, 54 };
