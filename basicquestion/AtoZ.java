@@ -1,6 +1,7 @@
 import java.util.Arrays;
 
 public class AtoZ {
+    // in this question you have to make an array form a to z
     public static void main(String[] args) {
         String b = new String();
         StringBuilder a = new StringBuilder();
@@ -11,7 +12,7 @@ public class AtoZ {
 
         }
         System.out.println(Arrays.toString(arr));
-        System.out.println(Arrays.toString(b.toCharArray()));
+        //System.out.println(Arrays.toString(b.toCharArray()));
         for (char num : arr) {
             System.out.println(num);
         }
